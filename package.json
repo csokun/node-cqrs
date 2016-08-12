@@ -1,0 +1,12 @@
+{
+    "name": "node-cqrs",
+    "version": "1.0.0",
+    "description": "CQRS in node",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+}
